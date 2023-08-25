@@ -1,0 +1,15 @@
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
+
+
+color
+
+#fcdb00 yellow
+010101 black
+989898 ash
+
+
+.nav_cus
+.logo
+.menu
+
