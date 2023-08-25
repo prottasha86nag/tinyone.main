@@ -1,2 +1,2 @@
 # tinyone.main
-psd to html
+https://prottasha86nag.github.io/tinyone.main/
